@@ -1,0 +1,388 @@
+0
+['pad', 'UH-SH', 'Y-EH', 'Q-JH', 'D-JH', 'N-D', 'F-N', 'SH-D', 'M-AA', 'JH-AO', 'Q-IH', 'pad']
+['ġaħtx', 'tentuxa', 'skrejjen', 'ġaqġaqt', 'ntġartu', 'banda', 'riefnu', 'nixhdux', '', 'ġolġol', 'tqil', 'jirtaddu']
+
+1
+['pad', 'L-W', 'IY-B', 'D-IY', 'D-B', 'UW-AO', 'G-#', 'AA-IH', 'D-T', 'Y-D', 'K-AO', 'pad']
+['jħaxħxux', 'nilwi', '', '', 'xatba', '', '', '', 'ħaddtet', '', 'blokok', 'tħaxxint']
+
+2
+['pad', 'ZH-T', 'UW-G', 'F-T', 'ZH-R', 'B-Z', 'Y-B', 'AO-JH', '#-UH', 'W-K', 'IY-#', 'pad']
+['jrikkebx', 'ixdqa', '', 'muftieħ', '', 'ħobżiet', '', 'froġa', 'umbrelel', '', '', 'titgħallu']
+
+3
+['pad', 'S-AH', 'IY-ZH', 'IH-S', 'G-L', 'S-V', 'HH-AA', 'EH-UW', 'M-Z', 'AO-K', 'Z-Y', 'pad']
+['tissaffux', 'qsar', '', 'knisja', 'gelglet', '', '', '', 'meżmżet', 'blokok', 'gażja', 'tkellu']
+
+4
+['pad', 'EH-IH', 'Q-IY', 'Z-B', 'JH-UW', 'B-P', 'G-G', 'JH-N', 'L-R', 'AO-Z', 'M-JH', 'pad']
+['xarrx', 'skrejjen', '', 'bażbuż', '', 'nebbħew', 'niggiżt', 'miġnun', '', 'lożor', 'ġġemġemt', 'dief']
+
+5
+['pad', 'P-K', 'Q-W', 'S-M', 'IY-IH', 'IY-N', 'W-Y', 'K-Z', 'CH-ZH', 'L-Z', 'EH-IY', 'pad']
+['ssaħħbu', 'xibka', 'waqwaqt', 'musmar', '', '', 'tiewja', 'niksbu', '', 'żelżilt', '', 'ttawwaltu']
+
+6
+['pad', 'Q-AO', 'CH-D', 'HH-K', 'G-W', 'ZH-EH', 'ZH-Y', 'N-UH', 'UW-UW', 'Y-K', 'G-AO', 'pad']
+['ħawwadt', 'borqom', '', 'daħket', 'lingwistiku', '', '', 'ċnut', '', '', 'tgorru', 'tferken']
+
+7
+['pad', 'IY-UW', 'Z-F', 'AH-Z', 'S-#', 'G-T', 'UW-UH', 'B-JH', 'D-CH', 'V-SH', '#-T', 'pad']
+['jħokk', '', '', 'ħażin', 'flus', '', '', 'żibġa', '', '', 'tebgħa', 'żengulija']
+
+8
+['pad', 'N-EH', 'D-Y', 'SH-IH', 'K-W', 'W-B', 'V-R', 'SH-AH', 'Q-B', 'CH-IH', 'JH-#', 'pad']
+['xxeffux', 'sfineġ', 'nidjieq', 'ħaxix', 'skwerer', '', 'vervret', 'bxara', 'toqba', 'kċina', '', 'jsemmed']
+
+9
+['pad', 'P-S', 'HH-SH', 'Y-S', 'EH-T', 'P-JH', 'L-#', 'K-P', 'UW-#', 'JH-W', 'CH-AO', 'pad']
+['nitkebbes', 'libsa', 'ħaxħxet', '', 'pjazez', '', 'skrapel', 'pakpakt', '', 'geġwiġt', 'boċoċ', 'mitluf']
+
+10
+['pad', 'F-EH', 'AO-#', 'AA-R', 'UH-Y', 'UH-B', 'CH-#', 'AA-B', 'Y-JH', 'D-L', 'R-D', 'pad']
+['tewwimna', 'stafef', 'Kosovo', '', 'tkiwjaw', 'dubbiena', 'skrataċ', '', '', 'bandlet', 'fardal', 'bellgħet']
+
+11
+['pad', 'R-V', 'L-S', 'K-Y', 'ZH-UW', 'V-D', 'IY-EH', 'D-#', 'K-F', 'JH-CH', 'HH-Y', 'pad']
+['jinqalibx', 'ċerva', 'ilsna', 'ttikjaw', '', 'qanfdet', '', '', 'tkafkfet', 'feġġx', 'naħji', 'stgħartx']
+
+12
+['pad', 'UH-CH', 'L-P', 'SH-G', 'G-S', 'V-Q', 'K-ZH', 'AO-R', 'P-Y', 'UH-UH', 'S-JH', 'pad']
+['taħħarx', 'peċpuċa', 'xilpa', '', 'żekżket', '', '', 'storja', 'tipjip', 'jferuux', '', 'dierek']
+
+13
+['pad', 'EH-D', 'P-SH', 'F-V', 'W-#', 'Z-ZH', 'S-D', 'AO-D', 'ZH-S', 'B-AH', 'IH-UH', 'pad']
+['debbeħtu', 'betbut', 'berbxu', 'tniffdet', 'għagħaw', '', 'pastżet', 'ħodon', '', "tbajja'", 'għejun', 'jbexxux']
+
+14
+['pad', 'SH-M', 'M-D', 'ZH-Q', 'F-UH', 'UH-G', 'W-F', 'IH-B', '#-F', 'T-Y', 'W-IY', 'pad']
+['ndiehenx', 'mexmixtu', 'nitħemmdu', '', 'ċfuf', 'kewkba', '', 'qariba', 'flus', 'tħatjew', '', 'tellaqt']
+
+15
+['pad', 'AA-SH', 'F-Z', 'T-G', 'JH-IH', 'B-HH', 'HH-Z', 'L-SH', 'S-IY', 'IH-W', 'R-Z', 'pad']
+['tirqigħ', '', 'nifsdu', '', 'reġina', '', 'maħżen', 'lellxet', '', 'shejwa', 'gerżuma', 'theddidtux']
+
+16
+['pad', 'HH-ZH', 'Y-AO', 'AO-B', 'S-ZH', 'UH-AA', 'IY-SH', 'T-L', 'AO-CH', 'D-W', 'Z-T', 'pad']
+['xtegħelx', '', 'awtobijografiku', 'ħobżiet', '', '', '', 'kitla', 'skartoċċ', 'bidwi', 'fesdqet', 'nqollx']
+
+17
+['pad', '#-UW', 'CH-AA', 'AA-V', 'AH-Y', 'V-JH', 'UH-D', 'V-G', 'AA-G', 'F-G', 'S-B', 'pad']
+['raxkejtx', '', '', '', 'ansjetajiet', 'nifġel', 'sewda', 'nifgi', '', '', 'lanqas biss', 'nitqanqalx']
+
+18
+['pad', 'EH-JH', 'D-IH', 'B-N', 'R-S', 'AO-UH', 'G-EH', 'T-N', 'JH-T', 'AO-ZH', 'Y-V', 'pad']
+['tinxegħel', 'reġina', 'nadif', 'nġabna', 'darsa', 'ddagħdgħux', 'gliegel', 'ltqatniex', '', '', '', 'nitbeżżaqx']
+
+19
+['pad', 'ZH-M', 'ZH-AA', 'AA-L', 'L-UW', 'Q-UH', 'HH-R', 'V-IY', 'Z-N', 'G-M', '#-R', 'pad']
+['tagħtix', '', '', '', '', 'xquq', 'moħriet', '', 'barważna', 'gemgmet', 'rkejjen', 'tivvotax']
+
+20
+['pad', 'Q-CH', '#-M', 'D-F', 'UW-T', 'K-UH', 'SH-AO', 'P-Z', 'AO-P', 'SH-EH', 'IY-AH', 'pad']
+['nisrof', 'ċaqċqet', 'nbejjed', '', '', 'skuna', 'koxox', '', 'ħobż', 'ħxejjex', '', 'nimlesx']
+
+21
+['pad', 'W-W', 'G-F', 'SH-HH', 'N-SH', 'UH-S', 'HH-IY', 'UW-CH', 'R-B', 'CH-UW', 'EH-Z', 'pad']
+['gradi', 'ntlwwew', '', 'ħaxħaxt', 'xenxul', 'karfusa', '', '', 'darba', '', 'beżżul', 'ħakkejt']
+
+22
+['pad', 'V-B', 'CH-F', 'Y-SH', 'ZH-JH', 'Z-W', 'K-G', 'T-EH', 'N-ZH', 'G-B', 'AO-IY', 'pad']
+['wegħidin', 'serfbord', 'iġfna', '', '', 'bażwret', 'nikkbet', 'ntejjen', '', 'kewkba', '', 'torqomx']
+
+23
+['pad', 'N-F', 'AH-F', 'ZH-F', 'F-D', 'L-G', 'CH-T', 'UW-B', 'HH-N', 'B-D', 'Q-SH', 'pad']
+['tħartmu', 'denfil', 'ħrafa', '', '', 'gelgul', 'tħemmidtx', '', 'baħnan', 'badbdu', 'qaxqxet', 'għallatniex']
+
+24
+['pad', 'R-EH', 'R-JH', 'HH-P', 'N-Y', 'B-Q', 'G-IH', 'L-AA', 'JH-V', 'IH-IY', 'IH-N', 'pad']
+['tgerrsux', 'skrejjen', 'żarġun', 'baħbħet', 'għanja', '', 'ġagġgitx', '', '', '', 'katina', 'ssetteħt']
+
+25
+['pad', 'ZH-IY', 'IY-L', 'ZH-IH', 'M-UH', '#-IH', 'T-SH', 'P-L', 'ZH-L', 'S-AA', 'AO-EH', 'pad']
+['teptiepi', '', '', 'televixin', 'qmuħ', 'iblah', 'partxet', 'ċemplet', '', '', 'Manoel Island', 'jżebbġux']
+
+26
+['pad', 'AA-Y', 'N-Z', 'AH-ZH', 'W-R', 'AH-Q', 'S-T', 'IH-V', 'W-V', 'Z-EH', 'T-UW', 'pad']
+['rtfidtux', '', 'sponża', "naxba'", 'bażwret', 'xaqq', 'pjazza', 'nifġel', '', 'gżejjer', '', 'jisħetx']
+
+27
+['pad', 'Z-UH', 'AH-UW', 'EH-ZH', 'UH-UW', 'G-AH', 'K-N', 'T-Z', 'Q-HH', 'HH-M', 'V-AH', 'pad']
+['moqlijin', 'beżżul', '', 'tbexbext', '', 'ċnagan', 'rokna', '', 'qaħqħet', 'aħmar', 'salvaġġa', 'kamradt']
+
+28
+['pad', 'R-G', 'W-UW', 'T-IY', 'N-UW', 'P-UH', 'AA-CH', 'AO-M', 'P-T', 'K-Q', 'UW-M', 'pad']
+['titwalx', 'porga', '', '', '', 'zpup', '', 'tomna', 'nġabtu', '', '', 'norqmux']
+
+29
+['pad', 'F-W', 'EH-L', 'F-IY', 'L-T', 'CH-UH', 'Y-R', 'N-IH', 'G-UW', 'Z-HH', 'W-M', 'pad']
+['ngħaddlux', 'tifwieħ', 'skarpell', '', 'zalza', 'beċċun', '', 'knisja', '', '', 'tliewmet', 'tosfolx']
+
+30
+['pad', 'N-V', 'IH-F', 'V-#', 'IY-JH', 'IY-T', 'M-HH', 'K-B', 'EH-N', 'L-JH', 'D-AH', 'pad']
+['nissarsarwx', 'qanfdet', 'ħafifa', '', '', 'attriċi', 'ħamħamt', '', 'sengħa', 'ġolġol', 'ħdan', 'farraktu']
+
+31
+['pad', 'HH-W', 'G-UH', 'IY-AA', 'SH-T', 'V-M', 'R-K', 'AH-SH', 'Z-S', 'CH-IY', 'JH-Q', 'pad']
+['nigħnux', 'kagħwiġt', 'ċangun', '', 'berbixtx', '', 'barkun', 'ħaxix', 'reżżħiet', '', 'ġaqġqet', 'tbexxixt']
+
+32
+['pad', 'IH-L', 'S-R', 'HH-V', 'JH-AA', 'R-AO', 'F-K', 'R-HH', 'N-AA', 'AA-HH', 'AO-F', 'pad']
+['tgħoss', 'stilla', 'qasrija', '', '', 'grosos', 'tkafkaft', 'terħa', '', '', 'trofof', 'jżaddmu']
+
+33
+['pad', 'K-D', 'V-P', 'EH-#', 'S-Y', 'G-SH', 'F-HH', 'IY-Z', 'K-#', 'V-HH', 'HH-UH', 'pad']
+['ħejjeb', 'niktbux', '', 'tike', 'knisja', '', 'nofħol', '', 'blokok', '', 'mħuħ', 'jinsarmux']
+
+34
+['pad', 'AO-S', '#-L', 'K-UW', 'Y-P', 'N-S', 'EH-S', 'UW-ZH', 'D-G', 'AH-IH', '#-CH', 'pad']
+['xxekkekx', 'grosos', 'lwien', '', '', 'mansab', 'pespus', '', 'nitgerbeb', "snajja'", 'ċens', 'kanadiż']
+
+35
+['pad', '#-V', 'UH-V', 'JH-SH', 'ZH-CH', 'CH-SH', 'EH-HH', 'JH-M', '#-G', 'UH-M', 'Q-N', 'pad']
+['tagħtagħniex', 'vleġġa', 'peruvjan', '', '', 'ntfetxux', 'leħen', 'iġmla', 'grosos', 'ċumnija', 'ltħaqna', 'rkit']
+
+36
+['pad', 'D-Q', 'K-T', 'P-D', 'N-M', 'Q-G', 'W-EH', 'W-UH', 'W-JH', 'K-IY', 'AH-AA', 'pad']
+['tnaddafx', '', 'maktur', '', 'nemnmet', '', 'skwerer', 'nibwux', 'geġwġu', '', '', 'nitfernżux']
+
+37
+['pad', 'IY-Q', 'M-B', 'F-AH', 'Z-SH', 'G-K', 'Y-UH', 'R-UH', 'Q-#', 'N-P', 'L-AO', 'pad']
+['nitrawtu', '', 'tanbur', 'tfal', '', 'maggs', 'bjut', 'skrun', 'ħlejjaq', 'San Pawl il-Bahar', 'blokok', 'xawwart']
+
+38
+['pad', 'G-Q', 'L-HH', 'R-L', 'V-Y', 'Q-EH', 'M-M', 'T-IH', 'UH-JH', 'M-K', 'D-AO', 'pad']
+['tqarwżu', 'ngqadt', 'ilħna', 'parlajt', 'kavjawx', 'bqaqen', 'nitħemmdu', 'ftira', 'ħuġġieġa', 'mekmket', 'ħodon', 'meħħirniex']
+
+39
+['pad', 'EH-G', 'P-AA', 'Y-IY', 'K-M', 'B-L', 'G-V', 'R-SH', 'UH-K', 'T-F', 'Q-D', 'pad']
+['Il-Manikata', 'bekbikt', '', '', 'antikmamar', 'dublett', '', 'ħarxa', 'xewka', 'nodfa', 'maqdas', 'ambajtx']
+
+40
+['pad', 'P-P', 'T-JH', 'D-D', 'Z-D', 'V-T', 'SH-S', 'SH-Y', 'F-B', 'T-Q', 'D-HH', 'pad']
+['ħtekkejtx', 'ċappetta', 'ilmijiet ġieri', 'mħadda', 'isdra', '', '', 'ntmexxjniex', '', 'ixdqa', '', 'stiliftx']
+
+41
+['pad', 'UH-N', 'UH-P', 'M-W', 'AO-UW', 'W-D', 'SH-Z', 'Y-G', 'JH-UH', 'CH-L', 'B-V', 'pad']
+['tilgħobx', 'skuna', 'lupu', 'timwiġ', '', 'tfarwdet', '', '', 'żarġun', 'peċluq', '', 'ħosbien']
+
+42
+['pad', 'ZH-N', 'K-K', 'SH-Q', 'UW-IY', 'S-Q', 'M-EH', 'AH-UH', 'N-AO', 'AA-AH', 'M-N', 'pad']
+['gawdju', '', 'blokka', 'qaxqaxt', '', 'fisqija', 'titħemmedx', 'dawl', 'sponoż', '', 'tomna', 'ttikjaw']
+
+43
+['pad', 'B-ZH', 'Q-K', 'W-S', 'R-UW', 'Y-N', 'UW-D', 'T-AO', 'IH-EH', 'B-G', 'Z-R', 'pad']
+['għotorna', '', '', 'weswset', '', 'drijna', '', 'storja', 'tbawgħietx', '', 'iżraq', 'nirken']
+
+44
+['pad', 'AA-UH', 'SH-UH', 'ZH-G', 'Z-AH', 'D-AA', 'AO-L', 'EH-V', 'ZH-Z', 'UH-ZH', 'JH-IY', 'pad']
+['jipprovaw', '', 'qxur', '', 'bżabaż', '', 'skola', 'Paceville', '', '', '', 'nżegleg']
+
+45
+['pad', 'UW-N', 'W-AA', 'EH-F', 'HH-B', 'AA-N', '#-D', 'JH-JH', 'Q-Q', 'L-B', 'L-V', 'pad']
+['effetwati', '', '', 'keffa', 'qaħbu', '', "tbajja'", 'vleġġa', 'baqqun', 'kelba', 'salvaġġa', 'ntardet']
+
+46
+['pad', 'UW-AA', 'IY-HH', 'IH-M', 'IY-S', 'JH-K', 'T-D', 'K-L', '#-Y', 'K-HH', 'B-AO', 'pad']
+['nservux', '', '', 'qadima', '', '', 'ħattbet', 'berklet', 'jitħemmdu', 'ikħal', 'bodbod', 'xxappitx']
+
+47
+['pad', '#-#', '#-EH', 'N-G', 'L-Y', 'CH-Q', 'IH-HH', 'IH-AO', 'L-F', 'JH-G', 'HH-T', 'pad']
+['rtaddet', 'York', 'erwieħ', 'stanga', 'koljejt', 'ċefċqitx', 'rejħiet', 'bojod', 'felfilt', 'ġagġget', 'ċewlaħtx', 'ġġebbiltu']
+
+48
+['pad', 'JH-L', 'Q-P', 'ZH-D', 'HH-JH', 'M-AH', 'P-R', 'F-Y', 'B-T', 'Q-F', 'HH-HH', 'pad']
+['triħ', 'żinġla', 'baqbqet', 'tixdid', 'maħġar', 'xmara', 'ċajpret', 'nifjad', 'qabdtejn', 'soqfa', 'duħħan', 'werrixniex']
+
+49
+['pad', 'AA-EH', 'Z-AO', 'Y-Z', 'N-L', 'B-M', 'UW-L', 'N-W', 'Z-Z', 'Q-M', 'S-UW', 'pad']
+['tpinġix', '', 'lożor', '', 'San Lawrenz', 'sebbmet', '', 'manwalt', 'beżżul', 'loqma', '', 'nitbħux']
+
+50
+['pad', 'P-W', 'D-N', 'M-F', 'R-M', 'L-D', 'IH-K', 'Y-T', 'R-IY', 'CH-HH', 'Q-Z', 'pad']
+['swiċċijiet', 'Il-Pwales', 'tħemmidniex', '', 'ċorma', 'ġilda', 'klikka', 'drijtu', 'attriċi', 'ferċħx', 'tqażqżet', 'nħokk']
+
+51
+['pad', 'M-UW', 'L-UH', 'IY-IY', 'N-IY', 'HH-F', '#-P', 'UH-#', 'Z-M', 'AH-IY', 'P-Q', 'pad']
+['redqux', '', 'flus', '', '', 'tiħfief', 'btala', 'qaħbu', 'garżmet', '', 'baqbqet', 'xegħilna']
+
+52
+['pad', 'AA-F', 'AH-S', 'CH-CH', 'Q-V', 'D-Z', 'N-JH', 'Q-L', 'AO-V', 'JH-AH', 'M-IH', 'pad']
+['titfesfisx', '', 'praspura', 'biċċa', '', 'pastżet', 'sfinġa', 'ċaqlaq', 'nofdol', 'masġar', 'ħmir', 'żejjiżt']
+
+53
+['pad', 'N-CH', 'UW-Q', 'P-AH', 'Z-K', 'T-P', 'P-UW', 'R-AH', 'F-SH', 'F-CH', 'V-V', 'pad']
+['tpenzlu', 'ċenċiela', '', 'skarpan', 'gesgset', 'nitpeċpeċ', '', 'skrapan', 'ferfxux', 'nċafċaf', 'avventura', 'galliżi']
+
+54
+['pad', 'N-AH', 'Z-Q', 'L-ZH', 'SH-CH', 'AH-B', 'HH-D', 'JH-Z', 'AO-T', 'EH-M', 'EH-P', 'pad']
+['megħixtu', "snajja'", 'qażquż', '', '', 'ħabba', 'aħdar', 'nġżejna', 'grotot', 'denb', 'tgerbebt', 'nistgħux']
+
+55
+['pad', 'V-Z', 'UH-F', 'Y-IH', 'UW-IH', 'G-JH', 'B-F', 'ZH-SH', 'R-R', 'G-ZH', 'L-K', 'pad']
+['tpexpxux', 'nervżet', 'muftieħ', 'nkoljix', '', 'ġagġagt', '', '', 'skwerra', '', 'balkajt', 'jinżifinx']
+
+56
+['pad', 'SH-K', 'ZH-AO', 'AH-AO', 'T-UH', 'W-ZH', 'T-HH', 'AO-AO', 'L-IH', 'B-AA', 'N-B', 'pad']
+['tamawx', 'flixkun', '', 'kaotiku', 'xtut', '', 'nitħemmdu', 'Liverpool', 'klikka', '', 'San Blas', 'xxierku']
+
+57
+['pad', 'P-AO', 'IY-V', 'CH-S', 'B-S', 'L-M', 'Y-W', 'UW-EH', 'M-CH', 'JH-P', 'M-AO', 'pad']
+['ssum', 'sponża', '', 'iġsma', 'żepżpet', 'kelma', '', '', 'bermċet', '', 'ħomor', 'niġbrux']
+
+58
+['pad', 'HH-Q', 'AA-W', 'AH-JH', 'P-#', 'P-F', 'F-JH', 'IY-W', 'B-R', 'AA-IY', 'P-ZH', 'pad']
+['nitbassarx', 'tiltaħqu', '', 'raġel', 'denb', 'grejpfrut', '', '', 'dabra', '', '', 'ddieħkux']
+
+59
+['pad', 'K-IH', 'B-UH', 'AH-CH', 'F-S', 'M-R', 'P-EH', 'W-Z', 'Y-F', 'AH-#', 'W-T', 'pad']
+['nixxewwaq', 'bixkilla', 'ħbub', 'kapatx', 'kavst', 'kamra', 'skrapel', 'barwżet', 'ssiejfet', 'sengħa', 'karwtitx', 'qriegħtux']
+
+60
+['pad', 'F-#', 'B-K', 'W-L', 'T-V', 'AO-N', 'AH-V', 'F-L', 'HH-IH', 'IH-AA', 'M-G', 'pad']
+['semmew', 'ħrejjef', '', 'gerwlet', 'Il-Belt Valletta', 'sponża', 'slavaġ', 'berflet', 'rħisa', '', 'gemgimt', 'jkexkex']
+
+61
+['pad', 'G-IY', 'UH-IY', 'AA-K', 'HH-AH', 'F-AO', 'Z-JH', 'AH-P', 'N-K', 'SH-JH', 'AO-Y', 'pad']
+['ġġebbsu', '', '', '', 'mħadda', 'trofof', 'masġar', 'skrapan', 'trinka', '', '', 'laħħmet']
+
+62
+['pad', 'Q-R', 'AH-N', 'K-JH', 'IH-R', 'SH-ZH', 'V-AO', 'Q-S', 'Y-Y', 'T-#', 'V-AA', 'pad']
+['iżilmu', 'maqrut', 'staneg', '', 'ftira', 'ħaxxbet', 'nvolġi', 'oqsma', 'sijju', 'ħobżiet', '', 'tonhorx']
+
+63
+['pad', 'CH-G', 'Q-AA', 'AA-Q', 'S-EH', 'CH-EH', 'S-W', 'HH-#', 'B-Y', 'CH-B', 'Z-IH', 'pad']
+['nkewwes', '', '', '', 'ħsejjes', 'kċejjen', 'iswed', 'fwejjaħ', 'abjad', 'paċpċet', 'gżira', 'titgħajjebx']
+
+64
+['pad', '#-K', 'AA-S', 'D-EH', 'G-N', 'IH-ZH', 'Z-UW', 'P-G', 'IY-UH', 'K-S', 'L-Q', 'pad']
+['nebbixija', 'kċejjen', '', 'mħaded', 'ġagġagna', 'nixbah', '', '', '', 'ċerksu', 'ħolqa', 'jitqiegħedx']
+
+65
+['pad', 'EH-B', 'T-T', 'G-P', 'R-CH', 'V-IH', 'SH-P', 'M-L', 'W-CH', 'JH-ZH', 'HH-UW', 'pad']
+['fellejjin', 'tebgħa', 'flotta', 'bekbket', 'ċerċur', 'nerviżtx', 'pexpux', 'demla', '', '', '', 'noforqux']
+
+66
+['pad', 'Z-G', 'B-SH', '#-Z', 'ZH-W', 'IY-CH', 'CH-V', 'IY-P', '#-S', 'IH-#', 'S-AO', 'pad']
+['titpartax', 'gesgist', '', 'żjara', '', '', '', '', 'skrun', 'lbiesi', 'grosos', 'tqammru']
+
+67
+['pad', 'T-ZH', 'R-N', 'L-AH', 'F-ZH', 'AA-D', 'ZH-UH', 'UW-V', 'V-UH', 'IH-P', 'IY-G', 'pad']
+['ngħarwilx', '', 'ġurnata', 'plakka', '', '', '', '', 'nsolvux', 'libsa', '', 'tqarramx']
+
+68
+['pad', 'AH-W', 'IH-Q', 'S-P', 'G-D', 'F-IH', 'CH-AH', 'K-CH', 'SH-B', 'SH-R', 'IY-Y', 'pad']
+['qumu', "ta' wara", 'dejqa', 'zpup', 'ngdibt', 'sfinġa', 'nċafċaf', 'ċekċek', '', 'qoxra', '', 'jterret']
+
+69
+['pad', 'CH-P', 'D-UH', 'IH-AH', 'AH-HH', 'SH-SH', 'AA-Z', 'Q-T', 'IH-SH', 'V-UW', 'AH-M', 'pad']
+['jitgiedmu', 'peċpuċa', 'ġdur', 'ninħejax', 'qaħbu', 'kexxun', '', 'ltħaqtux', 'ħaxixa', '', 'qamħ', 'nxeħtu']
+
+70
+['pad', 'V-EH', 'K-V', 'G-Y', 'W-HH', 'P-M', '#-Q', 'HH-CH', 'AO-SH', 'N-HH', 'UW-SH', 'pad']
+['għammux', 'sarvetta', '', 'vagjet', 'waħwħet', 'ekwippment', 'qaħbu', 'ġaħġħet', 'qoxra', 'tbaħanħet', '', 'jaqilbu']
+
+71
+['pad', 'D-S', 'P-HH', 'AA-T', 'Y-HH', 'N-T', 'SH-W', 'Y-CH', 'IY-M', 'P-B', 'T-AH', 'pad']
+['kaskas', '', 'ibħra', '', 'rejjħx', 'kantun', 'għaxwixt', '', '', '', 'skrataċ', 'ġarraf']
+
+72
+['pad', 'Z-CH', 'Y-M', 'K-SH', 'UW-Z', 'HH-G', 'Y-UW', 'UW-HH', 'K-AA', 'S-CH', 'EH-R', 'pad']
+['titqallewx', '', 'mqajjma', 'ferkxu', '', 'rħgiba', '', '', '', '', 'skwerer', 'għakrixtx']
+
+73
+['pad', 'M-ZH', 'K-R', 'SH-V', 'JH-R', 'JH-HH', 'W-SH', 'V-CH', 'IH-Y', 'R-IH', 'AH-G', 'pad']
+['ttekket', '', 'skrun', '', 'siġra', '', 'derwxet', '', 'skrejjen', 'trinka', 'ċnagan', 'paspartx']
+
+74
+['pad', 'S-G', 'R-W', 'HH-AO', 'UH-R', 'R-ZH', 'F-R', 'P-N', 'P-V', 'F-F', 'F-Q', 'pad']
+['għella', '', 'erwieħ', 'koħol', 'praspura', '', 'xafra', 'ċapċapniex', 'dnub venjali', 'staffa', 'qafqaft', 'joħolġu']
+
+75
+['pad', 'G-R', 'AA-M', 'S-Z', 'B-W', 'CH-R', 'UW-JH', 'AH-EH', 'Y-AA', 'UW-Y', 'S-HH', 'pad']
+['ħtarna', 'ingravata', '', 'fassdet', 'nibwi', 'ċarċru', '', 'iżraeljan', '', '', 'qanżħa', 'twaħħdu']
+
+76
+['pad', 'SH-#', 'L-IY', 'L-L', 'M-P', 'T-W', 'W-G', 'IH-G', 'G-CH', 'V-W', 'EH-AO', 'pad']
+['pexpixt', 'ħaxix', '', 'spalla', 'ċenpula', 'xitwa', '', 'legligna', '', '', 'ġeografiku', 'tidnisa']
+
+77
+['pad', 'UH-W', 'CH-JH', '#-ZH', 'AO-G', 'IY-K', 'F-P', 'F-UW', 'EH-UH', 'T-M', '#-IY', 'pad']
+['ntaradx', 'suwed', '', 'xbiek', 'awtobijografiku', '', '', '', 'mewt', 'fattmet', '', 'tbaċċanx']
+
+78
+['pad', 'SH-F', 'Y-L', 'B-#', 'IH-CH', 'R-#', 'T-B', 'Z-#', '#-AA', 'Y-AH', 'B-B', 'pad']
+['tpassi', 'fexfixt', 'stħajjlux', '', 'biċċa', 'skwerer', 'naħliet bagħlin', 'ansjuż', 'għammiem', 'fwejjaħ', 'ħabba', 'mmexxi']
+
+79
+['pad', 'D-ZH', 'AA-AA', 'Q-Y', 'EH-W', 'UW-K', 'N-N', 'AO-AA', 'V-F', 'EH-K', 'Q-ZH', 'pad']
+['tixhiebux', '', '', 'bieqja', '', '', 'sinna', '', '', 'bekkum', '', 'tintrikebx']
+
+80
+['pad', 'F-AA', 'W-IH', 'Z-IY', 'D-K', 'HH-EH', 'T-AA', 'SH-AA', 'S-K', 'EH-CH', 'JH-B', 'pad']
+['pedamenti', '', 'twila', '', '', 'nitħemmdu', '', '', 'zkuk', 'titħemmedx', 'niġbed', 'tmehilt']
+
+81
+['pad', 'S-SH', 'K-EH', 'IY-AO', 'L-N', 'M-#', 'AA-JH', 'CH-Y', 'AO-IH', 'UW-S', 'B-CH', 'pad']
+['tkażaw', '', 'rkejjen', '', 'qallilna', 'ċrum', '', 'assoċjat', 'bojod', '', 'ċapċapt', 'għaddmu']
+
+82
+['pad', 'AH-L', 'UW-P', '#-W', 'N-R', 'V-ZH', '#-JH', '#-SH', 'T-K', 'AA-UW', 'M-V', 'pad']
+['nżellqux', 'btala', '', 'werżieq', 'ċeknret', '', 'ġenb', 'xkora', 'nitkafkaf', '', 'nom verbali', 'qammtitx']
+
+83
+['pad', 'JH-S', 'CH-M', 'Y-Q', 'W-P', 'AO-AH', 'JH-EH', 'ZH-ZH', 'W-AH', 'AO-Q', 'AH-T', 'pad']
+['tlaħlaħ', '', 'ċamċmet', 'rqajqa', '', 'kroat', 'rġejjen', '', 'dwal', 'moqdief', 'skrataċ', 'xoxxit']
+
+84
+['pad', 'R-F', 'CH-N', 'D-UW', 'F-M', 'SH-IY', 'Q-AH', 'S-F', 'P-CH', 'AO-W', 'UH-Z', 'pad']
+['jterritx', 'farfett', 'bermiċna', '', 'nifhmu', '', 'fqar', 'isfar', 'tibċir', '', 'bużżieqa', 'jitkejjef']
+
+85
+['pad', 'JH-D', 'B-IY', 'D-SH', 'S-IH', 'JH-Y', 'V-N', 'AA-P', 'R-Y', 'UW-F', 'S-L', 'pad']
+['naħarbux', 'tiġdid', '', 'tidhxux', 'lsir', 'rieġjet', 'venvnet', '', 'storja', '', 'zlazi', 'titkexkxu']
+
+86
+['pad', 'UH-AO', 'T-S', 'R-P', 'EH-AA', 'D-R', 'JH-F', 'ZH-HH', 'M-S', 'M-Q', 'UH-EH', 'pad']
+['qerridin', 'tbawgħu', 'pjazza', 'skarpan', '', 'ġidra', '', '', 'qammsitx', 'maqmqet', 'tbawgħietx', 'għafastux']
+
+87
+['pad', 'IY-F', 'ZH-AH', 'N-#', 'M-SH', 'UW-AH', 'M-IY', 'Z-L', 'T-CH', 'AA-AO', 'IH-D', 'pad']
+['tiċċaqlaqx', '', '', 'skrun', 'jmexmxu', '', '', 'niżla', 'siltiet ċanga', '', 'mejda', 'ċħadtx']
+
+88
+['pad', 'ZH-#', 'R-Q', 'S-UH', 'UH-IH', 'R-T', 'AO-HH', 'L-CH', 'AH-D', '#-B', 'AA-#', 'pad']
+['Il-Furjana', '', 'borqom', 'gzuz', 'tlewimt', 'skartoċċ', 'moħħ', 'pulċinell', 'mħadda', 'biċċa', '', 'jtaqqabx']
+
+89
+['pad', 'Z-AA', 'P-IH', 'M-Y', 'B-IH', 'Y-ZH', 'IH-UW', 'UW-W', 'G-Z', 'EH-Q', 'M-T', 'pad']
+['ninħtiiġx', '', 'spiża', 'għamja', 'nbid', '', '', '', 'gażgżet', 'seqer', 'fattamtu', 'jżenger']
+
+90
+['pad', 'P-IY', 'R-AA', 'UH-AH', 'V-L', 'ZH-B', 'G-HH', 'UH-HH', 'HH-S', 'W-Q', 'ZH-P', 'pad']
+['titlabbrux', '', '', 'fwawar', 'tavla', 'ixbra', '', 'duħħan', 'deħset', 'waqwqitx', 'nitbexbxux', 'tisseksikx']
+
+91
+['pad', 'UW-R', 'Z-P', 'S-S', '#-N', 'UH-Q', 'D-M', 'B-EH', 'AH-AH', 'CH-K', 'CH-W', 'pad']
+['titqanżaħ', '', 'nisbku', 'grossa', 'ntiena', 'tertuqa', 'qodma', 'nbejjed', 'tkiwaatx', 'ċekċket', 'keċwint', 'tlejjelx']
+
+92
+['pad', 'Q-UW', 'W-N', 'UH-T', 'S-N', 'L-EH', '#-AH', 'IH-Z', 'V-K', 'ZH-K', 'B-UW', 'pad']
+['rejjex', '', 'berwnet', 'gzuz', 'znieter', 'flejjes', 'abjad', 'spiża', '', '', '', 'tberrkux']
+
+93
+['pad', 'IH-T', 'HH-L', 'SH-N', '#-AO', 'Z-V', 'UH-L', 'EH-Y', 'N-Q', 'G-AA', 'IY-R', 'pad']
+['jċaħħad', 'nitħemmdu', 'kaħla', 'tberbexna', 'oqbra', 'Żvezja', 'mula', 'ġbejna', 'għanqud', '', '', 'ddeterminata']
+
+94
+['pad', 'AH-R', 'ZH-V', 'D-P', 'V-S', 'Y-#', 'D-V', 'SH-L', 'SH-UW', 'EH-EH', 'W-AO', 'pad']
+['tmarrart', 'skarpan', '', 'betbtet', 'żafżfet', 'dagħaj', 'nitvinċa', 'jbexlekx', '', 'Leeds', 'rwol', 'fellqiet']
+
+95
+['pad', 'IY-D', 'EH-SH', 'EH-AH', 'AA-ZH', 'K-AH', 'CH-Z', 'IH-IH', 'T-R', '#-HH', 'AH-K', 'pad']
+['msaren', '', 'pexpux', 'ideat', '', 'skarpan', '', 'pinġiitx', 'tbagħtret', 'ħobżiet', 'plakka', 'tħajjel']
+
+96
+['pad', 'IH-JH', 'pad']
+['għarġux', 'miġnun', 'jhewdnu']
+

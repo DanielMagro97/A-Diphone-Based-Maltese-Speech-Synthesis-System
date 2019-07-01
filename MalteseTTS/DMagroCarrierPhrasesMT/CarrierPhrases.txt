@@ -1,0 +1,24 @@
+0
+['pad', 'Y-UH', 'M-N', 'L-#', 'N-IH', 'N-#', 'M-EH', 'IH-M', 'AH-N', 'AH-F', 'IH-T', 'pad']
+['nifxu', 'bjut', 'tomna', 'skrapel', 'knisja', 'skrun', 'titħemmedx', 'qadima', 'staneg', 'ħrafa', 'nitħemmdu', 'tgħabbex']
+
+1
+['pad', 'P-Y', 'Y-AH', 'HH-EH', 'S-EH', 'T-K', 'M-P', 'K-EH', 'W-IH', 'SH-R', 'IH-L', 'pad']
+['ssaġġarniex', 'tipjip', 'fwejjaħ', 'nitħemmdu', 'ħsejjes', 'nitkafkaf', 'ċenpula', 'rkejjen', 'twila', 'qoxra', 'stilla', 'jgħid']
+
+2
+['pad', 'IH-#', 'AO-M', 'D-IH', 'M-#', 'AO-SH', 'Y-IH', 'EH-M', 'IH-HH', 'IH-S', 'K-#', 'pad']
+['jitkarmsu', 'lbiesi', 'tomna', 'nadif', 'ċrum', 'qoxra', 'nkoljix', 'denb', 'rejħiet', 'knisja', 'blokok', 'tkarrbu']
+
+3
+['pad', 'K-AO', 'EH-T', 'L-K', 'N-D', 'T-UH', 'D-AH', 'L-EH', 'EH-L', 'HH-AH', 'R-IH', 'pad']
+['tbaħħaħtx', 'blokok', 'pjazez', 'balkajt', 'banda', 'xtut', 'ħdan', 'flejjes', 'skarpell', 'mħadda', 'trinka', 'tħellef']
+
+4
+['pad', 'EH-R', 'S-M', 'N-T', 'N-AH', 'UH-T', 'IH-N', 'R-#', 'AH-#', 'S-IH', 'EH-N', 'pad']
+['tgħajjinniex', 'skwerer', 'musmar', 'kantun', "snajja'", 'gzuz', 'katina', 'skwerer', 'sengħa', 'lsir', 'sengħa', 'tkissirx']
+
+5
+['pad', 'SH-Y', 'UH-AO', 'K-HH', 'EH-K', 'F-#', 'T-EH', 'T-#', 'L-L', 'pad']
+['virajtu', 'nixjieħ', 'tbawgħu', 'ikħal', 'bekkum', 'ħrejjef', 'ntejjen', 'ħobżiet', 'spalla', 'akwatika']
+

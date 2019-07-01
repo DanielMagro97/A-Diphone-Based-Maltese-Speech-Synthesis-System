@@ -1,0 +1,36 @@
+------------------------------------------------
+ MalteseG2P
+ v0.2 (27-2-2013)
+ (c) Mark Borg, Crimsonwing Malta Ltd.
+
+ Lignum House, Aldo Moro Road, Marsa MRS 9065.
+ Email:  research@crimsonwing.com
+
+------------------------------------------------
+
+
+  Usage:
+
+     MalteseG2P.exe  <input file>
+     MalteseG2P.exe  <input file> <output file>
+
+  where:
+
+     <input file> is the input text file containing Maltese text in Unicode format (UTF-8).
+         If no path is specified, the program looks for the input file within the current
+         working directory.
+     <output file> is the generated output text file containing the phonemic transcription.
+         If no output file is specified, then the program will use the name of the input file,
+         and save the output file in the current working directory.
+
+  Example:
+
+     MalteseG2P.exe  c:\test\maltese.txt  c:\output\output.txt
+     MalteseG2P.exe  "c:\test\San Dimitri.txt"  "c:\output\San Dimitri g2p.txt" 
+     MalteseG2P.exe  c:\test\maltese.txt
+
+   In the third example, an output file is generated with filename "maltese.g2p.txt".
+   If a filename or path contains a space, then it needs to be enclosed in "..." as in the 2nd example.
+
+
+

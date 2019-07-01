@@ -1,0 +1,61 @@
+word,arpabet
+stalel,"['S', 'T', 'AH', 'L', 'EH', 'L']"
+iblah,"['IH', 'B', 'L', 'AHː', 'HH']"
+ħaxwex,"word
+ħaxwex    [HH, AH, SH, W, EH, SH]
+ħaxwex    [HH, AH, SH, W, EH, SH]
+Name: arpabetList, dtype: object"
+xegħel,"['SH', 'EHː', 'L']"
+waqajt,"word
+waqajt    [W, AH, Q, AH, IH, T]
+waqajt    [W, AH, Q, AH, IH, T]
+Name: arpabetList, dtype: object"
+bigħ,"['B', 'IYː', 'HH']"
+kontux,"['K', 'AO', 'N', 'T', 'UH', 'SH']"
+jogħġob,"['Y', 'AOː', 'JH', 'AO', 'P']"
+jkunx,"['Y', 'K', 'UH', 'N', 'SH']"
+ttikilniex,"word
+ttikilniex    [T, T, IH, K, IH, L, N, IHː, SH]
+ttikilniex    [T, T, IH, K, IH, L, N, IHː, SH]
+Name: arpabetList, dtype: object"
+possibilità,"['P', 'AO', 'S', 'S', 'IH', 'B', 'IH', 'L', 'IH', 'T', '#']"
+swarè,"['S', 'W', 'AH', 'R', '#']"
+karì,"['K', 'AH', 'R', '#']"
+tribù,"word
+tribù    [T, R, IH, B, #]
+tribù    [T, R, IH, B, #]
+Name: arpabetList, dtype: object"
+tgerbib,"word
+tgerbib    [D, G, EH, R, B, IH, P]
+tgerbib    [D, G, EH, R, B, IH, P]
+Name: arpabetList, dtype: object"
+ulċera,"['UH', 'L', 'CH', 'EH', 'R', 'AH']"
+vandalu,"['V', 'AH', 'N', 'D', 'AH', 'L', 'UH']"
+sfineġ,"['S', 'F', 'IH', 'N', 'EH', 'CH']"
+froġa,"['F', 'R', 'AO', 'JH', 'AH']"
+stanga,"['S', 'T', 'AH', 'N', 'G', 'AH']"
+mħuħ,"['M', 'HH', 'UH', 'HH']"
+sjuf,"word
+sjuf    [S, Y, UH, F]
+sjuf    [S, Y, UH, F]
+Name: arpabetList, dtype: object"
+zokk,"['T', 'S', 'AO', 'K', 'K']"
+qalil,"['Q', 'AH', 'L', 'IH', 'L']"
+ċumnija,"['CH', 'UH', 'M', 'N', 'IH', 'Y', 'AH']"
+fenek,"['F', 'EH', 'N', 'EH', 'K']"
+lupu,"['L', 'UH', 'P', 'UH']"
+tieqa,"['T', 'IHː', 'Q', 'AH']"
+bandiera,"['B', 'AH', 'N', 'D', 'IHː', 'R', 'AH']"
+bezzun,"['B', 'EH', 'T', 'S', 'T', 'S', 'UH', 'N']"
+grotot,"['G', 'R', 'AO', 'T', 'AO', 'T']"
+ċerva,"['CH', 'EH', 'R', 'V', 'AH']"
+dwal,"word
+dwal    [D, W, AH, L]
+dwal    [D, W, AH, L]
+dwal    [D, W, AH, L]
+Name: arpabetList, dtype: object"
+qoxra,"['Q', 'AO', 'SH', 'R', 'AH']"
+nixbah,"['N', 'IH', 'ZH', 'B', 'AHː', 'HH']"
+funzjoni,"['F', 'UH', 'N', 'T', 'S', 'Y', 'AO', 'N', 'IH']"
+staġun,"['S', 'T', 'AH', 'JH', 'UH', 'N']"
+glorjuża,"['G', 'L', 'AO', 'R', 'Y', 'UH', 'Z', 'AH']"
